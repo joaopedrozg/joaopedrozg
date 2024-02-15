@@ -1,12 +1,12 @@
-### Hi there 👋
 
 <!--
-**joaopedrozg/joaopedrozg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# 👋 Hello! Welcome to my Github profile.
+## My name is João Pedro Zanetti Gonçalves and my nickname is "JP"!
 
 - 🔭 I’m currently working on ...
+    Na area de Logística
 - 🌱 I’m currently learning ...
+    
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
