@@ -132,30 +132,49 @@ No dia a dia: **relatórios e dashboards em Power BI e Excel, ETL/ELT com SQL e 
 ### TAC Corporation | Analista de Transporte | 11/2023 - 09/2024
 
 - Relatórios e análises em Power BI para apoio operacional.
-- Emissão de CT-e, NFS-e, MDF-e e rotinas de transporte.
+- Emissão de CT-e, NFS-e, MDF-e e pagamentos de autônomos.
 
 ### Intecom | Assistente Administrativo | 07/2023 - 11/2023
 
-- Faturamento portuário, NFS e manifestos; apoio administrativo com dados.
+- Faturamento de retiras portuárias, emissão de retorno simbólico, NFS e manifestos.
+
+### Base operacional e de domínio — Logística / Transporte / Portuário | 10/2016 - 02/2023
+
+- **Bauer Express — Assistente Operacional (12/2019 - 02/2023):** atendimento, rastreamento, relatórios de emissão, eficiência de transportador e horário de linha, fluxo de caixa FOB/CIF, manifestos e conferência documentos x carregamento.
+- **R&D Cargo — Apontador de Mão de Obra (10/2016 - 02/2019):** liderança de equipe (separação, etiquetagem, carregamento), cotação, gerenciamento de risco, cadastro/análise de transportador, lançamento de conhecimentos de transporte.
+- Diferencial para dados: domínio prático de operação logística e portuária, o que melhora modelagem de KPIs e comunicação com o negócio.
 
 ---
 
 ## Certificações & Educação
 
-- Pós-graduação em Data Science — Descomplica (07/2024 - 02/2025)
-- MBA em Business Intelligence — Descomplica (01/2024 - 07/2024)
-- Formação completa em Power BI — Fex Educação (01/2024 - 04/2024)
-- Análise e Desenvolvimento de Sistemas — UniDomBosco (2020 - 2023)
-- Microsoft Fabric — Arquitetura e Engenharia de Dados
-- Master Power BI — De A à Z + Formação Microsoft Power BI Profissional
-- SQL para Análise de Dados + Banco de Dados e SQL completo
-- Business Intelligence — SQL Server e Analysis Services
-- Python & MySQL + Python OOP + Excel Master + Power Query + PowerShell
+### Formação acadêmica
 
-## Idiomas
+- Pós-graduação em Data Science — Centro Universitário União das Américas Descomplica (07/2024 - 02/2025)
+- MBA em Business Intelligence — Centro Universitário União das Américas Descomplica (01/2024 - 07/2024)
+- Formação completa em Power BI — Faculdade Fex Educação (01/2024 - 04/2024)
+- Análise e Desenvolvimento de Sistemas — UniDomBosco (10/2020 - 04/2023)
 
-- Português — Nativo
-- Inglês — Intermediário (conversação Preply + OpenMind)
+### Cursos com certificado verificável (Udemy)
+
+- [Tratativas de Dados no Excel via Power Query](https://www.udemy.com/certificate/UC-3efe62a8-72a8-47b5-b8ab-ce4d76b4718a/)
+- [Excel Master: do básico ao avançado (4 cursos em 1)](https://www.udemy.com/certificate/UC-a30104b9-463c-4c2c-9e53-0b2f22cd2880/)
+- [Excel 365 e anteriores — Fórmulas e Funções Avançadas](https://www.udemy.com/certificate/UC-4f677bf2-6b02-4046-914b-acc7f7e8c12b/)
+- [Business Intelligence — SQL Server e Analysis Services](https://www.udemy.com/certificate/UC-0c2cc872-ca3c-427c-96ae-18cc8bcde368/)
+- [Master Power BI — De A à Z](https://www.udemy.com/certificate/UC-4330d1a4-b01a-4ad2-ae40-ff55727b6cbc/)
+- [Microsoft Fabric — Arquitetura e Engenharia de Dados](https://www.udemy.com/certificate/UC-af01bd59-e1c6-4879-b400-9f67ea92a141/)
+- [Formação Microsoft Power BI Profissional](https://www.udemy.com/certificate/UC-4ead0f4a-5aee-4b97-8550-323b846603b9/)
+- [SQL para Análise de Dados: do básico ao avançado](https://www.udemy.com/certificate/UC-eeea8a33-3272-46e8-95f2-3a58674a75ec/)
+- [O curso completo de Banco de Dados e SQL, sem mistérios!](https://www.udemy.com/certificate/UC-bcd547f5-e1f6-409c-979f-5d68cfb59acd/)
+- [Python & MySQL](https://www.udemy.com/certificate/UC-6e89b976-2ea3-4a35-9966-9b0a883f667a/)
+- [Python: Programação Orientada a Objetos com Python 3](https://www.udemy.com/certificate/UC-c2f09ad5-6d23-47c7-baa4-a94cd1fe9cb5/)
+- [Aprenda PowerShell do zero](https://www.udemy.com/certificate/UC-X2W3NISC/)
+- Power BI (curso — sem link público no CV)
+
+## Idiomas (conforme CV)
+
+- Português — Nativo/Fluente
+- Inglês — Intermediário
 - Espanhol — Intermediário
 
 ---
